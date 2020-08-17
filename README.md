@@ -9,7 +9,7 @@
 - Press q to exit.
 - Open your terminal and type facerecognition.py
 
-### Pre-Requisite
+### Explanation
 
 - **OpenCV**
 
